@@ -51,4 +51,10 @@ function reveal(){
   }
 }
 
-  
+ document.getElementById("resume1").addEventListener("click",()=>{
+    window.open("https://drive.google.com/file/d/1V8fEq5wNSTH-cagqvLymdoipYD6K78z8/view?usp=sharing",'_blank')
+  })
+
+  document.getElementById("resume2").addEventListener("click",()=>{
+    window.open("https://drive.google.com/file/d/1V8fEq5wNSTH-cagqvLymdoipYD6K78z8/view?usp=sharing",'_blank')
+  })
