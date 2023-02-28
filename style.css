@@ -251,7 +251,7 @@ body {
 }
 
 .skills {
-  background: #000016;
+  background: white;
 }
 
 .skills .content {
@@ -266,6 +266,11 @@ body {
 .skills .content .col-left {
   position: relative;
   width: 46%;
+}
+#skillsmiddles{
+  margin: auto;
+  /* border: 1px solid black; */
+  /* margin-left: 28%; */
 }
 
 .skills .content .col-left .content-title {
@@ -1306,7 +1311,3 @@ body {
 
   
 }
-
-
-
-
